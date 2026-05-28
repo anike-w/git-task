@@ -1,1 +1,1 @@
-https://github.com/anike-w/git-task.git
+https://github.com/anike-w/git-task
